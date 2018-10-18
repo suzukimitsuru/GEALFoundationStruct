@@ -1,0 +1,6 @@
+{
+  // ファイルの読み取り/書き込みで使用する既定の文字セット エンコーディング。言語ごとに構成することも可能です。
+  "files.encoding": "shiftjis",
+  // The value to use in a configuration if "includePath" is not specified, or the values to insert if "${default}" is present in "includePath".
+  "C_Cpp.default.includePath": [ "./GEAL/Engine/include", "./GEAL/Resources", ],
+}
